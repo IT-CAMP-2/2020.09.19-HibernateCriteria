@@ -1,0 +1,8 @@
+pl/camp/it/service/IUserService.class
+pl/camp/it/controllers/AdminController.class
+pl/camp/it/dao/IUserDAO.class
+pl/camp/it/dao/impl/UserDAOImpl$CriteriaWrapper.class
+pl/camp/it/service/impl/UserServiceImpl.class
+pl/camp/it/App.class
+pl/camp/it/dao/impl/UserDAOImpl.class
+pl/camp/it/model/User.class
